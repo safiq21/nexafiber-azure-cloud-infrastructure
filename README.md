@@ -1,4 +1,4 @@
-# NexaFiber Azure Cloud Infrastructure
+# Nexa-Fiber Azure Cloud Infrastructure
 
 A hands-on Azure infrastructure project designed for a fictional enterprise application environment, focusing on **network segmentation, security, routing, monitoring, governance, and cost management**.
 The project demonstrates how an application infrastructure can be designed and migrated into Azure using a **Hub-and-Spoke network architecture** with separate Web, Application, Database, and Management tiers.
