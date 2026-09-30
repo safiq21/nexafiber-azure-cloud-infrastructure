@@ -3,6 +3,10 @@
 A hands-on Azure infrastructure project designed for a fictional enterprise application environment, focusing on **network segmentation, security, routing, monitoring, governance, and cost management**.
 The project demonstrates how an application infrastructure can be designed and migrated into Azure using a **Hub-and-Spoke network architecture** with separate Web, Application, Database, and Management tiers.
 
+## Architecture
+
+![NexaFiber Azure Hub and Spoke Architecture](./architecture/nexa-prod-azure-architecture.png)
+
 ## 1. Project Overview
 
 **Project:** NexaFiber Azure Cloud Infrastructure  
